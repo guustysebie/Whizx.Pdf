@@ -1,11 +1,6 @@
 # Whizx.Pdf
 
-
-
-
-![Alt text](./documentation/example.pdf "Example pdf")
-
-
+![Example result](./documentation/example.pdf)
 
 MIT License
 
