@@ -1,5 +1,7 @@
 # Whizx.Pdf
 
+This code is works but is not yet finished so use at ur own risk
+
 ![Example result](./documentation/example.pdf)
 
 MIT License
